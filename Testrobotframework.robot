@@ -16,4 +16,4 @@ Open Welcome Page
 ***Test Open URL***
     Open Browser    ${HOMEPAGE}    ${BROWSER}
     input text    q    ${URL}
-	Click Button	btnK
+    Click Button	btnK
